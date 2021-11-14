@@ -17,3 +17,8 @@ CLOVER EFI 5442
 - ❌ BLUETOOTH
 - ❌ HDMI
 - ❓ LEITOR DE CARTÃO (Não testado)
+
+
+### Agradecimentos
+  - Leonardo Assunção
+  - Grupo Hackintosh Brasil no Telegram
