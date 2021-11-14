@@ -3,15 +3,17 @@ CLOVER EFI 5442
 
 ### Funcionando
 
-- ✅ BRILHO.
-- ✅ AUDIO.
-- ✅ USB.
-- ✅ TECLADO.
-- ✅ TRACKPAD.
-- ✅ INTERNET CAB.
-- ⚠️ WIFI. (Funciona mas não decentemente)
-- ⚠️ FONE. (Funciona pessimamente, rajando)
-- ⚠️ MICROFONE. (Funciona porem muito baixo)
-- ❌ MICROFONE FONE.
-- ❌ BLUETOOTH.
-- ❌ HDMI.
+- ✅ AUDIO
+- ✅ BRILHO
+- ✅ INTERNET CABEADA
+- ✅ MICROFONE INTERNO
+- ✅ TECLADO
+- ✅ TRACKPAD
+- ✅ USB
+- ✅ WEBCAM
+- ⚠️ WIFI (Funciona mas não decentemente)
+- ⚠️ FONE (Funciona pessimamente, rajando)
+- ❌ MICROFONE HEADSET (FONE)
+- ❌ BLUETOOTH
+- ❌ HDMI
+- ❓ LEITOR DE CARTÃO (Não testado)
