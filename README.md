@@ -1,5 +1,5 @@
 # Hackintosh Dell 5566
-CLOVER EFI 5442
+CLOVER EFI 5142
 
 ## Rodando MACOS Big Sur
 ![sobre](https://user-images.githubusercontent.com/42776823/141667147-c94deedd-85f8-4354-9986-193f7aa6e0e7.png)
@@ -9,6 +9,7 @@ CLOVER EFI 5442
 
 - ✅ AUDIO
 - ✅ BRILHO
+- ✅ HDMI
 - ✅ INTERNET CABEADA
 - ✅ MICROFONE INTERNO
 - ✅ TECLADO
@@ -19,10 +20,10 @@ CLOVER EFI 5442
 - ⚠️ FONE (Funciona pessimamente, rajando)
 - ❌ MICROFONE HEADSET (FONE)
 - ❌ BLUETOOTH
-- ❌ HDMI
-- ❓ LEITOR DE CARTÃO (Não testado)
+- ❌ LEITOR DE CARTÃO
 
 
 ### Agradecimentos
   - Leonardo Assunção
+  - LucasFBS
   - Grupo Hackintosh Brasil no Telegram
